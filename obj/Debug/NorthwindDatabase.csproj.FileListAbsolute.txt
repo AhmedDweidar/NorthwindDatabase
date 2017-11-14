@@ -7,3 +7,6 @@ C:\Users\adweidar\Desktop\Programs\NorthwindDatabase\obj\Debug\NorthwindDatabase
 C:\Users\adweidar\Desktop\Programs\NorthwindDatabase\obj\Debug\NorthwindDatabase.exe
 C:\Users\adweidar\Desktop\Programs\NorthwindDatabase\obj\Debug\NorthwindDatabase.pdb
 C:\Users\adweidar\Desktop\Programs\NorthwindDatabase\obj\Debug\NorthwindDatabase.csprojResolveAssemblyReference.cache
+C:\Users\adweidar\Documents\GitHub\NorthwindDatabase\bin\Debug\NorthwindDatabase.exe.config
+C:\Users\adweidar\Documents\GitHub\NorthwindDatabase\obj\Debug\NorthwindDatabase.exe
+C:\Users\adweidar\Documents\GitHub\NorthwindDatabase\obj\Debug\NorthwindDatabase.pdb
